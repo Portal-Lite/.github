@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner_1200x300.png" alt="Soporte, Desarrollo e Innovación — iCERO1" width="100%" />
-</p>
-
 # 🏛️ Panel Administrativo — Portales Institucionales (Portales Lite)
 
 Bienvenidos al **nuevo sistema de administración de portales institucionales**, provisto por **1CERO1**.  
